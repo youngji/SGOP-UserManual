@@ -1,4 +1,4 @@
-#Pogs user manual
+# Pogs user manual
 
 Welcome to the pogs user manual. The purpose of this document is to give a broad overview of the system inner works, and provide a basic tutorial on how to create a study from beginning to end.
 
