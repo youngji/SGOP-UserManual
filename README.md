@@ -1,4 +1,4 @@
-# POGS2.0 user manual
+# POGS2.0 User Manual
 
 Welcome to the POGS2.0 user manual. POGS2.0 represents the Platform for Online Group Studies 2.0; its earlier version was originally developed by researchers at MIT, Carnegie Mellon University and Union College. POGS aims to enable researchers to design and execute online experiments involving groups that interact simultaneously. Using this software, researchers can implement interactive and collaborative tasks and score performance. The key advantage of POGS lies in its scalability as it allows researchers to invite anyone with internet connection to their research. POGS2.0 is developed by researchers at UC Santa Barbara and MIT with supplementary funding provided by the US Army Research Laboratory and US Army Research Office. This upgraded version of POGS includes basic features that are inspired by the original system and advanced features that support more various communication structures, methods of team creation, task types, and collaboration tools. The purpose of this document is to give a broad overview of the system inner works, and provide a basic tutorial on how to create a study from beginning to end.
 
