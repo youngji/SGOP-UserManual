@@ -3,15 +3,16 @@
 Welcome to the pogs user manual. The purpose of this document is to give a broad overview of the system inner works, and provide a basic tutorial on how to create a study from beginning to end.
 
 ## System overview
-The POGS system is structured in a way that helps it achieve the execution of a set of online tasks by groups of individuals, that can interact and contact each other with several different configurations.
-It all starts with the study.
-### Study
-The study is a container of several sessions. Normally a study will have conditions that will be applied to the sessions either in form of configuration changes, or different subject groups.
+The POGS system is structured in a way that helps it achieve the execution of a set of online tasks by groups of individuals, that can interact and communicate with each other with several different configurations.
+Using POGS for executing online group tasks starts with creating a **Study**.
 
-The study is also attached to a research group. Only researchers associated with the same research group(s) will be able to see the study and sessions data, and access its configurations.
+### Study
+**Study** is a container of several **Sessions**. Normally a **Study** will have conditions that will be applied to the **Sessions** either in the form of configuration changes, or different subject groups.
+
+A **Study** is attached to a **Research Group**. Only those users associated with the **Research Group** attached to the **Study** will be able to see the study info and its associated sessions, and access their configurations.
 
 ### Session
-A session is a scheduled event, or a perpetual event, that uses a set of pre configured settings that allow invited "subjects" to participate in solving a set of tasks in a predefined time period.
+A **Session** is an event that uses a set of pre-configured settings that allow **Subjects** to perform a set of **Tasks** in a predefined time period.  A **Session** can be (a) *scheduled* to start at a specific date and time or (b) set as a *perpetual* session, which is open for a set period of time and can start whenever criteria for starting a session are met.  
 
 The session has the following lifecycle:
 --
